@@ -1,0 +1,5 @@
+# Comandos utilizados:
+
+chmod 744 calculadora.sh #permissões
+ls -l calculadora.sh #verificando permissões
+./calculadora.sh #execução
