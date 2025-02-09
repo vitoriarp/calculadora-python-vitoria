@@ -8,7 +8,7 @@ cd ~/modulo1/phyton
 ```
 2. Permitir a execução do arquivo:
 ```bash
-chmod _x calculadora.sh
+chmod +x calculadora.sh
 ```
 3. Executar o script:
 ```bash
